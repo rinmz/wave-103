@@ -1,0 +1,4 @@
+asyncio==3.4.3
+discord.py==2.3.2
+yt-dlp==2025.3.30
+pynacl==1.4.0
